@@ -1,12 +1,8 @@
 <html>
 	<head>
-		<title>My First Web Page</title>
+		<title>Pull Request</title>
 	</head>
 	<body>
-		<h1>Welcome to Web Programming!</h1>
-		<h2>This is Zickri's WebPage</h2>
-		<p>This is my first web page created with HTML.</p>
-		<p>I'm 20 Years Old.<br>And I like Ice Cream.</p>
-		<p style="color:yellow;">I Really Like Yellow.</p>
+		<p style="color:yellow;">This is a Pull Request.</p>
 	</body>
 </html>
